@@ -1,0 +1,17 @@
+{
+  "name": "Pokémon HeartGold/SoulSilver Archipelago PopTracker",
+  "game_name": "Pokémon HeartGold/SoulSilver",
+  "package_version": "0.0.1",
+  "package_uid": "ap_hgss_stuckboy",
+  "author": "StuckBoy",
+  "min_poptracker_version": "0.32.1",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    }
+  },
+  "versions_url": "https://raw.githubusercontent.com/stuckboy/hgss-tracker/versions/versions.json"
+}
