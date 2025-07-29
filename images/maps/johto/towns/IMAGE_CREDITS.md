@@ -1,0 +1,1 @@
+Images within have been sourced from [Bulbapedia](https://bulbapedia.bulbagarden.net/).
