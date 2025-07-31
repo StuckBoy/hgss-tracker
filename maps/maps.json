@@ -1,0 +1,1249 @@
+[
+	// Needed?
+	/*
+    {
+        "name": "versionmismatch",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/settings/versionmismatch.png"
+    },
+    // Wut?
+    {
+        "name": "not_crystal",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/settings/not_crystal.png"
+    },
+    */
+    // Eventually
+    /*
+    {
+        "name": "johtokanto_vertical",
+        "location_size": 4,
+        "location_border_thickness": 1,
+        "img": "images/maps/johtokanto_vertical.png"
+    },
+    */
+    {
+        "name": "johtokanto",
+        "location_size": 4,
+        "location_border_thickness": 1,
+        "img": "images/maps/Johto-Kanto.png"
+    },
+    {
+        "name": "johto_overview",
+        "location_size": 4,
+        "location_border_thickness": 1,
+        "img": "images/maps/Johto.png"
+    },
+    {
+        "name": "kanto_overview",
+        "location_size": 4,
+        "location_border_thickness": 1,
+        "img": "images/maps/Kanto.png"
+    },
+    /*
+    {
+        "name": "AzaleaTown",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/towns/Azalea_Town.png"
+    },
+    {
+        "name": "AzaleaGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/gyms/Azalea_Gym.png"
+    },
+    {
+        "name": "BlackthornCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/towns/Blackthorn_City.png"
+    },
+    {
+        "name": "BlackthornGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/gyms/Blackthorn_Gym.png"
+    },
+    */
+    // Unnecessary?
+    /*
+    {
+        "name": "BlackthornGym2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/BlackthornGym2F.png"
+    },
+    */
+    /*
+    {
+        "name": "BurnedTower1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Burned_Tower_1F.png"
+    },
+    {
+        "name": "BurnedTowerB1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Burned_Tower_B1F.png"
+    },
+    {
+        "name": "CeladonCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/towns/Celadon_City.png"
+    },
+    */
+    // TODO
+    /*
+    {
+        "name": "CeladonCafe",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/CeladonCafe.png"
+    },
+    */
+    /*
+    {
+        "name": "CeladonGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/gyms/Celadon_Gym.png"
+    },
+    {
+        "name": "CeruleanCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/towns/Cerulean_City.png"
+    },
+    {
+        "name": "CeruleanGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/gyms/Cerulean_Gym.png"
+    },
+    {
+        "name": "CherrygroveCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/towns/Cherrygrove_City.png"
+    },
+    {
+        "name": "CianwoodCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/towns/Cianwood_City.png"
+    },
+    {
+        "name": "CianwoodGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/gyms/Cianwood_Gym.png"
+    },
+    {
+        "name": "CinnabarIsland",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/towns/Cinnabar_Island.png"
+    },
+    {
+        "name": "DiglettsCave",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/landmarks/Digletts_Cave.png"
+    },
+    {
+        "name": "DragonsDenB1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Dragons_Den_B1F.png"
+    },
+    {
+        "name": "EcruteakCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/towns/Ecruteak_City.png"
+    },
+    {
+        "name": "EcruteakGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/gyms/Ecruteak_Gym.png"
+    },
+    // TODO
+    /*
+    {
+        "name": "FastShip1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/FastShip1F.png"
+    },
+    {
+        "name": "FastShipB1F_Overview",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/FastShipB1F_Overview.png"
+    },
+    {
+        "name": "FastShipB1F_Eastbound",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/FastShipB1F_Eastbound.png"
+    },
+    {
+        "name": "FastShipB1F_Westbound",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/FastShipB1F_Westbound.png"
+    },
+    {
+        "name": "FastShipCabins_Overview",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/FastShipCabins_Overview.png"
+    },
+    {
+        "name": "FastShipCabins_Eastbound",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/FastShipCabins_Eastbound.png"
+    },
+    {
+        "name": "FastShipCabins_Westbound",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/FastShipCabins_Westbound.png"
+    },
+    */
+    // TODO?
+    /*
+    {
+        "name": "OlivinePort",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/OlivinePort.png"
+    },
+    */
+    /*
+    {
+        "name": "FuchsiaCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/towns/Fuchsia_City.png"
+    },
+    {
+        "name": "FuchsiaGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/gyms/Fuchsia_Gym.png"
+    },
+    {
+        "name": "GoldenrodCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/towns/Goldenrod_City.png"
+    },
+    {
+        "name": "GoldenrodGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/gyms/Goldenrod_Gym.png"
+    },
+    {
+        "name": "GoldenrodTunnel",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Goldenrod_Tunnel.png"
+    },
+    // TODO
+    /*
+    {
+        "name": "GoldenrodUndergroundWarehouse",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/GoldenrodUndergroundWarehouse.png"
+    },
+    {
+        "name": "GoldenrodDeptStoreB1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/GoldenrodDeptStoreB1F.png"
+    },
+    {
+        "name": "GoldenrodDeptStore1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/GoldenrodDeptStore1F.png"
+    },
+    {
+        "name": "GoldenrodDeptStore2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/GoldenrodDeptStore2F.png"
+    },
+    {
+        "name": "GoldenrodDeptStore3F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/GoldenrodDeptStore3F.png"
+    },
+    {
+        "name": "GoldenrodDeptStore4F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/GoldenrodDeptStore4F.png"
+    },
+    {
+        "name": "GoldenrodDeptStore5F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/GoldenrodDeptStore5F.png"
+    },
+    {
+        "name": "GoldenrodDeptStore6F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/GoldenrodDeptStore6F.png"
+    },
+    {
+        "name": "GoldenrodDeptStoreRoof",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/GoldenrodDeptStoreRoof.png"
+    },
+    {
+        "name": "GoldenrodUndergroundSwitchRoomEntrances",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/GoldenrodUndergroundSwitchRoomEntrances.png"
+    },
+    */
+    // TODO
+    /*
+    {
+        "name": "IcePath1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Ice_Path_1F.png"
+    },
+    {
+        "name": "IcePathB1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Ice_Path_B1F.png"
+    },
+    // TODO Split & Rename?
+    {
+        "name": "IcePathB2FMahoganySide",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/IcePathB2FMahoganySide.png"
+    },
+    {
+        "name": "IcePathB2FBlackthornSide",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/IcePathB2FBlackthornSide.png"
+    },
+    {
+        "name": "IcePathB3F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Ice_Path_B3F.png"
+    },
+    */
+    /*
+    {
+        "name": "LavenderTown",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/towns/Lavender_Town.png"
+    },
+    {
+        "name": "MahoganyGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/gyms/Mahogany_Gym.png"
+    },
+    {
+        "name": "MahoganyTown",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/towns/Mahogany_Town.png"
+    },
+    {
+        "name": "MountMoon",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/landmarks/Mt_Moon.png"
+    },
+    {
+        "name": "MountMoonSquare",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/landmarks/Mt_Moon_Square.png"
+    },
+    // TODO Fix path
+    /*
+    {
+        "name": "MountMortar1FInside",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Mt_Mortar1FInside.png"
+    },
+    {
+        "name": "MountMortar1FOutside",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/MountMortar1FOutside.png"
+    },
+    {
+        "name": "MountMortar2FInside",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/MountMortar2FInside.png"
+    },
+    {
+        "name": "MountMortarB1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/MountMortarB1F.png"
+    },
+    */
+    /*
+    {
+        "name": "NationalPark",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/National_Park.png"
+    },
+    {
+        "name": "NewBarkTown",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/towns/New_Bark_Town.png"
+    },
+    {
+        "name": "OlivineCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/towns/Olivine_City.png"
+    },
+    {
+        "name": "OlivineGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/gyms/Olivine_Gym.png"
+    },
+    // TODO Fix
+    /*
+    {
+        "name": "OlivineLighthouse1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/OlivineLighthouse1F.png"
+    },
+    {
+        "name": "OlivineLighthouse2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/OlivineLighthouse2F.png"
+    },
+    {
+        "name": "OlivineLighthouse3F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/OlivineLighthouse3F.png"
+    },
+    {
+        "name": "OlivineLighthouse4F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/OlivineLighthouse4F.png"
+    },
+    {
+        "name": "OlivineLighthouse5F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/OlivineLighthouse5F.png"
+    },
+    {
+        "name": "OlivineLighthouse6F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/OlivineLighthouse6F.png"
+    },
+    */
+    /*
+    {
+        "name": "PalletTown",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/towns/Pallet_Town.png"
+    },
+    {
+        "name": "PewterCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/towns/Pewter_City.png"
+    },
+    {
+        "name": "PewterGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/gyms/Pewter_Gym.png"
+    },
+    {
+        "name": "PowerPlant",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/landmarks/Power_Plant.png"
+    },
+    {
+        "name": "RadioTower1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Goldenrod_Radio_Tower_1F.png"
+    },
+    {
+        "name": "RadioTower2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Goldenrod_Radio_Tower_2F.png"
+    },
+    {
+        "name": "RadioTower3F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Goldenrod_Radio_Tower_3F.png"
+    },
+    {
+        "name": "RadioTower3FBalcony",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Goldenrod_Radio_Tower_3F_Balcony.png"
+    },
+    {
+        "name": "RadioTower4F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Goldenrod_Radio_Tower_4F.png"
+    },
+    {
+        "name": "RadioTower5F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Goldenrod_Radio_Tower_5F.png"
+    },
+    // TODO Observation Deck
+    {
+        "name": "RockTunnel1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/landmarks/Rock_Tunnel_1.png"
+    },
+    {
+        "name": "RockTunnelB1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/landmarks/Rock_Tunnel_2.png"
+    },
+    {
+        "name": "Route1",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_1.png"
+    },
+    {
+        "name": "Route3",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_3.png"
+    },
+    {
+        "name": "Route4",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_4.png"
+    },
+    {
+        "name": "Route5",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_5.png"
+    },
+    {
+        "name": "Route6",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_6.png"
+    },
+    {
+        "name": "Route7",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_7.png"
+    },
+    {
+        "name": "Route8",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_8.png"
+    },
+    {
+        "name": "Route9",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_9.png"
+    },
+    {
+        "name": "Route10",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_10.png"
+    },
+    {
+        "name": "Route11",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_11.png"
+    },
+    {
+        "name": "Route12",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_12.png"
+    },
+    // TODO Split
+    /*
+    {
+        "name": "Route12North",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/Route12North.png"
+    },
+    {
+        "name": "Route12South",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/Route12South.png"
+    },
+    */
+    /*
+    {
+        "name": "Route13",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_13.png"
+    },
+    {
+        "name": "Route14",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_14.png"
+    },
+    {
+        "name": "Route15",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_15.png"
+    },
+    {
+        "name": "Route16",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_16.png"
+    },
+    {
+        "name": "Route17",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_17.png"
+    },
+    {
+        "name": "Route18",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_18.png"
+    },
+    {
+        "name": "Route19",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_19.png"
+    },
+    {
+        "name": "Route20",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_20.png"
+    },
+    {
+        "name": "Route21",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_21.png"
+    },
+    {
+        "name": "Route22",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_22.png"
+    },
+    {
+        "name": "Route23",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_23.png"
+    },
+    {
+        "name": "Route24",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_24.png"
+    },
+    {
+        "name": "Route25",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_25.png"
+    },
+    {
+        "name": "Route26",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_26.png"
+    },
+    // TODO Split
+    /*
+    {
+        "name": "Route26North",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/Route_26North.png"
+    },
+    {
+        "name": "Route26South",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/Route_26South.png"
+    },
+    */
+    /*
+    {
+        "name": "Route27",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_27.png"
+    },
+    {
+        "name": "Route28",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/routes/Route_28.png"
+    },
+    {
+        "name": "Route29",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_29.png"
+    },
+    {
+        "name": "Route30",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_30.png"
+    },
+    {
+        "name": "Route31",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_31.png"
+    },
+    {
+        "name": "Route32",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_32.png"
+    },
+    // TODO Split
+    /*
+    {
+        "name": "Route32North",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/Route32North.png"
+    },
+    {
+        "name": "Route32South",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/Route32South.png"
+    },
+    */
+    /*
+    {
+        "name": "Route33",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_33.png"
+    },
+    {
+        "name": "Route34",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_34.png"
+    },
+    {
+        "name": "Route35",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_35.png"
+    },
+    {
+        "name": "Route36",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_36.png"
+    },
+    {
+        "name": "Route37",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_37.png"
+    },
+    {
+        "name": "Route38",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_38.png"
+    },
+    {
+        "name": "Route39",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_39.png"
+    },
+    {
+        "name": "Route40",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_40.png"
+    },
+    {
+        "name": "Route41",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_41.png"
+    },
+    {
+        "name": "Route42",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_42.png"
+    },
+    {
+        "name": "Route43",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_43.png"
+    },
+    {
+        "name": "Route44",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_44.png"
+    },
+    {
+        "name": "Route45",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_45.png"
+    },
+    // TODO Split
+    /*
+    {
+        "name": "Route45North",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/Route45North.png"
+    },
+    {
+        "name": "Route45South",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/Route45South.png"
+    },
+    */
+    /*
+    {
+        "name": "Route46",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_46.png"
+    },
+    {
+        "name": "Route47",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_47.png"
+    },
+    {
+        "name": "Route48",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/routes/Route_48.png"
+    },
+    // TODO Ruins of Alph area
+    /*
+    {
+        "name": "RuinsOfAlphAerodactylItemRoom",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/RuinsOfAlphAerodactylItemRoom.png"
+    },
+    {
+        "name": "RuinsOfAlphHoOhItemRoom",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/RuinsOfAlphHoOhItemRoom.png"
+    },
+    {
+        "name": "RuinsOfAlphInnerChamber",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/RuinsOfAlphInnerChamber.png"
+    },
+    {
+        "name": "RuinsOfAlphKabutoItemRoom",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/RuinsOfAlphKabutoItemRoom.png"
+    },
+    {
+        "name": "RuinsOfAlphOmanyteItemRoom",
+        "location_size": 12,
+        "location_border_thickness": 1,
+        "img": "images/maps/RuinsOfAlphOmanyteItemRoom.png"
+    },
+    {
+        "name": "RuinsOfAlphOutside",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/RuinsOfAlphOutside.png"
+    },
+    */
+    /*
+    {
+        "name": "SaffronCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/towns/Saffron_City.png"
+    },
+    {
+        "name": "SaffronGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/gyms/Saffron_Gym.png"
+    },
+    // TODO Accurate name?
+    {
+        "name": "SeafoamGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/gyms/Cinnaber_Gym.png"
+    },
+    // TODO Fix names
+    /*
+    {
+        "name": "SilverCaveItemRooms",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/SilverCaveItemRooms.png"
+    },
+    {
+        "name": "SilverCaveOutside",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/SilverCaveOutside.png"
+    },
+    {
+        "name": "SilverCaveRoom1",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/SilverCaveRoom1.png"
+    },
+    {
+        "name": "SilverCaveRoom2",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/SilverCaveRoom2.png"
+    },
+    {
+        "name": "SilverCaveRoom3",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/SilverCaveRoom3.png"
+    },
+    */
+    /*
+    {
+        "name": "SlowpokeWellB1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Slowpoke_Well_B1F.png"
+    },
+    {
+        "name": "SlowpokeWellB2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Slowpoke_Well_B2F.png"
+    },
+    {
+        "name": "SproutTower1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Sprout_Tower_1F.png"
+    },
+    {
+        "name": "SproutTower2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Sprout_Tower_2F.png"
+    },
+    {
+        "name": "SproutTower3F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Sprout_Tower_3F.png"
+    },
+    // TODO
+    /*
+    {
+        "name": "TeamRocketBaseB1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/TeamRocketBaseB1F.png"
+    },
+    {
+        "name": "TeamRocketBaseB2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/TeamRocketBaseB2F.png"
+    },
+    {
+        "name": "TeamRocketBaseB3F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/TeamRocketBaseB3F.png"
+    },
+    */
+    /*
+    {
+        "name": "BellTower1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Bell_Tower_1F.png"
+    },
+    {
+        "name": "BellTower2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Bell_Tower_2F.png"
+    },
+    {
+        "name": "BellTower3F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Bell_Tower_3F.png"
+    },
+    {
+        "name": "BellTower4F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Bell_Tower_4F.png"
+    },
+    {
+        "name": "BellTower5F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Bell_Tower_5F.png"
+    },
+    {
+        "name": "BellTower6F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Bell_Tower_6F.png"
+    },
+    {
+        "name": "BellTower7F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Bell_Tower_7F.png"
+    },
+    {
+        "name": "BellTower8F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Bell_Tower_8F.png"
+    },
+    {
+        "name": "BellTower9F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Bell_Tower_9F.png"
+    },
+    // TODO Needed?
+    {
+        "name": "BellTower10F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Bell_Tower_10F.png"
+    },
+    // TODO Roof
+    /*
+    {
+        "name": "BellTowerRoof",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/BellTowerRoof.png"
+    },
+    */
+    // TODO
+    /*
+    {
+        "name": "TohjoFalls",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/TohjoFalls.png"
+    },
+    */
+    /*
+    {
+        "name": "UndergroundPath",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/landmarks/Underground_Path_5-6.png"
+    },
+    {
+        "name": "UnionCave1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Union_Cave_1F.png"
+    },
+    {
+        "name": "UnionCaveB1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Union_Cave_B1F.png"
+    },
+    {
+        "name": "UnionCaveB2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Union_Cave_B2F.png"
+    },
+    {
+        "name": "VermilionCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/towns/Vermilion_City.png"
+    },
+    {
+        "name": "VermilionGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/gyms/Vermilion_Gym.png"
+    },
+    // TODO?
+    /*
+    {
+        "name": "VermilionPort",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/VermilionPort.png"
+    },
+    */
+    // TODO
+    /*
+    {
+        "name": "VictoryRoad1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/VictoryRoad1F.png"
+    },
+    {
+        "name": "VictoryRoad2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/VictoryRoad2F.png"
+    },
+    {
+        "name": "VictoryRoad3F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/VictoryRoad3F.png"
+    },
+    */
+    /*
+    {
+        "name": "VioletCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/towns/Violet_City.png"
+    },
+    {
+        "name": "VioletGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/gyms/Violet_Gym.png"
+    },
+    {
+        "name": "ViridianCity",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/towns/Viridian_City.png"
+    },
+    {
+        "name": "ViridianGym",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/kanto/gyms/Viridian_Gym.png"
+    },
+    // TODO
+    /*
+    {
+        "name": "WhirlIsland1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/WhirlIsland1F.png"
+    },
+    {
+        "name": "WhirlIslandB1F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/WhirlIslandB1F.png"
+    },
+    {
+        "name": "WhirlIslandB2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/WhirlIslandB2F.png"
+    },
+    {
+        "name": "WhirlIslandCave",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/WhirlIslandCave.png"
+    },
+    {
+        "name": "WhirlIslandLugiaChamber",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/WhirlIslandLugiaChamber.png"
+    }
+    */
+]

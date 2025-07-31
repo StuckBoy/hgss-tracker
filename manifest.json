@@ -1,5 +1,5 @@
 {
-  "name": "Pokémon HeartGold/SoulSilver Archipelago PopTracker",
+  "name": "Pokémon HeartGold/SoulSilver AP Tracker",
   "game_name": "Pokémon HeartGold/SoulSilver",
   "package_version": "0.0.1",
   "package_uid": "ap_hgss_stuckboy",
@@ -9,6 +9,7 @@
     "standard": {
       "display_name": "Map Tracker",
       "flags": [
+        //Enables AP autotracking interface - remove if unused
         "ap"
       ]
     }
