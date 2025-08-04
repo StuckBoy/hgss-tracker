@@ -1,3 +1,9 @@
+/**
+ * This file allows for the declaration and customization of maps to be 
+ * displayed. Additional configuration can be done on a "per-map" basis, such 
+ * as the size of locations for the individual map, the border of those 
+ * locations, etc.
+ */
 [
 	// Needed?
 	/*
@@ -260,54 +266,51 @@
         "location_border_thickness": 2,
         "img": "images/maps/GoldenrodUndergroundWarehouse.png"
     },
+    */
     {
         "name": "GoldenrodDeptStoreB1F",
         "location_size": 12,
         "location_border_thickness": 2,
-        "img": "images/maps/GoldenrodDeptStoreB1F.png"
+        "img": "images/maps/johto/landmarks/Goldenrod_Dept_Store_B1F.png"
     },
     {
         "name": "GoldenrodDeptStore1F",
         "location_size": 12,
         "location_border_thickness": 2,
-        "img": "images/maps/GoldenrodDeptStore1F.png"
+        "img": "images/maps/johto/landmarks/Goldenrod_Dept_Store_1F.png"
     },
     {
         "name": "GoldenrodDeptStore2F",
         "location_size": 12,
         "location_border_thickness": 2,
-        "img": "images/maps/GoldenrodDeptStore2F.png"
+        "img": "images/maps/johto/landmarks/Goldenrod_Dept_Store_2F.png"
     },
     {
         "name": "GoldenrodDeptStore3F",
         "location_size": 12,
         "location_border_thickness": 2,
-        "img": "images/maps/GoldenrodDeptStore3F.png"
+        "img": "images/maps/johto/landmarks/Goldenrod_Dept_Store_3F.png"
     },
     {
         "name": "GoldenrodDeptStore4F",
         "location_size": 12,
         "location_border_thickness": 2,
-        "img": "images/maps/GoldenrodDeptStore4F.png"
+        "img": "images/maps/johto/landmarks/Goldenrod_Dept_Store_4F.png"
     },
     {
         "name": "GoldenrodDeptStore5F",
         "location_size": 12,
         "location_border_thickness": 2,
-        "img": "images/maps/GoldenrodDeptStore5F.png"
+        "img": "images/maps/johto/landmarks/Goldenrod_Dept_Store_5F.png"
     },
     {
         "name": "GoldenrodDeptStore6F",
         "location_size": 12,
         "location_border_thickness": 2,
-        "img": "images/maps/GoldenrodDeptStore6F.png"
+        "img": "images/maps/johto/landmarks/Goldenrod_Dept_Store_6F.png"
     },
-    {
-        "name": "GoldenrodDeptStoreRoof",
-        "location_size": 12,
-        "location_border_thickness": 2,
-        "img": "images/maps/GoldenrodDeptStoreRoof.png"
-    },
+    // TODO
+    /*
     {
         "name": "GoldenrodUndergroundSwitchRoomEntrances",
         "location_size": 12,
@@ -315,8 +318,6 @@
         "img": "images/maps/GoldenrodUndergroundSwitchRoomEntrances.png"
     },
     */
-    // TODO
-    /*
     {
         "name": "IcePath1F",
         "location_size": 12,
@@ -329,6 +330,14 @@
         "location_border_thickness": 2,
         "img": "images/maps/johto/landmarks/Ice_Path_B1F.png"
     },
+    // TODO B2F Placeholder
+    {
+        "name": "IcePathB2F",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Ice_Path_B2F.png"
+    },
+    /*
     // TODO Split & Rename?
     {
         "name": "IcePathB2FMahoganySide",
@@ -342,13 +351,13 @@
         "location_border_thickness": 2,
         "img": "images/maps/IcePathB2FBlackthornSide.png"
     },
+    */
     {
         "name": "IcePathB3F",
         "location_size": 12,
         "location_border_thickness": 2,
         "img": "images/maps/johto/landmarks/Ice_Path_B3F.png"
     },
-    */
     {
         "name": "LavenderTown",
         "location_size": 12,
@@ -529,7 +538,12 @@
         "location_border_thickness": 2,
         "img": "images/maps/johto/landmarks/Goldenrod_Radio_Tower_5F.png"
     },
-    // TODO Observation Deck
+    {
+        "name": "RadioTowerObservationDeck",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Goldenrod_Radio_Tower_Observation_Deck.png"
+    },
     {
         "name": "RockTunnel1F",
         "location_size": 12,
@@ -975,6 +989,13 @@
         "img": "images/maps/SilverCaveRoom3.png"
     },
     */
+    // TODO Necessary?
+    {
+        "name": "SlowpokeWellEntrance",
+        "location_size": 12,
+        "location_border_thickness": 2,
+        "img": "images/maps/johto/landmarks/Slowpoke_Well_Entrance.png"
+    },
     {
         "name": "SlowpokeWellB1F",
         "location_size": 12,

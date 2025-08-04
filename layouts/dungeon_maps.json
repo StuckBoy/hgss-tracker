@@ -110,6 +110,15 @@
                                 "type": "tabbed",
                                 "tabs": [
                                     {
+                                        "title": "Entrance",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "SlowpokeWellEntrance"
+                                            ]
+                                        }
+                                    },
+                                    {
                                         "title": "B1F",
                                         "content": {
                                             "type": "map",
@@ -223,15 +232,6 @@
                                                 "GoldenrodDeptStore6F"
                                             ]
                                         }
-                                    },
-                                    {
-                                        "title": "Roof",
-                                        "content": {
-                                            "type": "map",
-                                            "maps": [
-                                                "GoldenrodDeptStoreRoof"
-                                            ]
-                                        }
                                     }
                                 ]
                             }
@@ -283,6 +283,15 @@
                                             "type": "map",
                                             "maps": [
                                                 "RadioTower5F"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Observation Deck",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "RadioTowerObservationDeck"
                                             ]
                                         }
                                     }
@@ -377,7 +386,7 @@
                             }
                         },
                         {
-                            "title": "Tin Tower",
+                            "title": "Bell Tower",
                             "content": {
                                 "type": "tabbed",
                                 "tabs": [
@@ -386,7 +395,7 @@
                                         "content": {
                                             "type": "map",
                                             "maps": [
-                                                "TinTower1F"
+                                                "BellTower1F"
                                             ]
                                         }
                                     },
@@ -395,7 +404,7 @@
                                         "content": {
                                             "type": "map",
                                             "maps": [
-                                                "TinTower2F"
+                                                "BellTower2F"
                                             ]
                                         }
                                     },
@@ -404,7 +413,7 @@
                                         "content": {
                                             "type": "map",
                                             "maps": [
-                                                "TinTower3F"
+                                                "BellTower3F"
                                             ]
                                         }
                                     },
@@ -413,7 +422,7 @@
                                         "content": {
                                             "type": "map",
                                             "maps": [
-                                                "TinTower4F"
+                                                "BellTower4F"
                                             ]
                                         }
                                     },
@@ -422,7 +431,7 @@
                                         "content": {
                                             "type": "map",
                                             "maps": [
-                                                "TinTower5F"
+                                                "BellTower5F"
                                             ]
                                         }
                                     },
@@ -431,7 +440,7 @@
                                         "content": {
                                             "type": "map",
                                             "maps": [
-                                                "TinTower6F"
+                                                "BellTower6F"
                                             ]
                                         }
                                     },
@@ -440,7 +449,7 @@
                                         "content": {
                                             "type": "map",
                                             "maps": [
-                                                "TinTower7F"
+                                                "BelTower7F"
                                             ]
                                         }
                                     },
@@ -449,7 +458,7 @@
                                         "content": {
                                             "type": "map",
                                             "maps": [
-                                                "TinTower8F"
+                                                "BellTower8F"
                                             ]
                                         }
                                     },
@@ -458,7 +467,7 @@
                                         "content": {
                                             "type": "map",
                                             "maps": [
-                                                "TinTower9F"
+                                                "BellTower9F"
                                             ]
                                         }
                                     },
@@ -467,7 +476,7 @@
                                         "content": {
                                             "type": "map",
                                             "maps": [
-                                                "TinTowerRoof"
+                                                "BellTowerRoof"
                                             ]
                                         }
                                     }
@@ -1185,6 +1194,18 @@
                                 ]
                             }
                         },
+                        // TODO Placeholder
+                        {
+                            "title": "Ice Path B2F",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "IcePathB2F"
+                                ]
+                            }
+                        },
+                        // TODO Split Maps
+                        /*
                         {
                             "title": "Ice Path B2F - Mahogany Side",
                             "content": {
@@ -1203,6 +1224,7 @@
                                 ]
                             }
                         },
+                        */
                         {
                             "title": "Ice Path B3F",
                             "content": {
